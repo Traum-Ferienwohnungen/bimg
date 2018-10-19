@@ -1,8 +1,8 @@
 #!/bin/bash
 
 vips_version_minimum=8.4.2
-vips_version_latest_major_minor=8.4
-vips_version_latest_patch=2
+vips_version_latest_major_minor=8.7
+vips_version_latest_patch=1
 
 openslide_version_minimum=3.4.0
 openslide_version_latest_major_minor=3.4
